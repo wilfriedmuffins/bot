@@ -228,7 +228,7 @@ DEPENDENCIES
   bootsnap
   capybara
   debug
-  facebook-messenger
+  facebook-messenger (~> 2.0, >= 2.0.1)
   importmap-rails
   jbuilder
   pg
